@@ -1,0 +1,80 @@
+﻿{"check":1,"datetime": "20200713204750","youtube":{
+  "kind": "youtube#searchListResponse",
+  "etag": "vgGAkqHlpv71aeeKWE5Jj3ZcdzI",
+  "regionCode": "TR",
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-vbdH1JckcShkda_L9O8RKP0pZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T74ptOcHuEA"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-13T17:11:47Z",
+        "channelId": "UCHsYsY99id5utJJjeKaQVTg",
+        "title": "Mamak Belediyesi - Musiki Muallim Mektebi Yaz Konserleri",
+        "description": "Mamak Belediyesi - Musiki Muallim Mektebi Yaz Konserleri.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T74ptOcHuEA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T74ptOcHuEA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T74ptOcHuEA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mamak Belediye",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-07-13T17:11:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h0YZiJd-CUkdoJMxFu4fQ0dQP70",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1LAaqejNAEw"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-13T10:06:31Z",
+        "channelId": "UCHsYsY99id5utJJjeKaQVTg",
+        "title": "Ülke TV canlı yayınında #GüzelAnkara&#39;yı konuşuyoruz...",
+        "description": "Mamak Belediyesi Resmi Youtube Kanalı.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LAaqejNAEw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LAaqejNAEw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LAaqejNAEw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mamak Belediye",
+        "liveBroadcastContent": "live",
+        "publishTime": "2020-07-13T10:06:31Z"
+      }
+    }
+  ]
+}
+}
